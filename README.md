@@ -1,7 +1,7 @@
 ### Hi 👋 I'm Fabricio !!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 
-<a target="_blank" href="www.linkedin.com/in/fabriciocovalesci">
+<a target="_blank" href="https://www.linkedin.com/in/fabriciocovalesci/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a target="_blank" href="https://dev.to/fcovalesci">

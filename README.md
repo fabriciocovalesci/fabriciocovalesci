@@ -1,28 +1,6 @@
 ### Hi 👋 I'm Fabricio !!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 
-<a target="_blank" href="https://www.linkedin.com/in/fabriciocovalesci/">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a target="_blank" href="https://dev.to/fcovalesci">
-  <img align="left" alt="Devto" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
-</a>
-<a target="_blank" href="https://twitter.com/FCovalesci">
-  <img align="left" alt="twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />
-</a>
-<a target="_blank" href="mailto:fabcovalesci@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-</br>
-
----
-
-* ✏ Weekly writer on dev.to, [follow me](https://dev.to/fcovalesci). 
-* ✏ Weekly writer on medium, [follow me](https://medium.com/@fabcovalesci).
-* 🌱 I’m currently learning **data science, machine learning and everything that involves blockchain, cryptocurrencies**
-* 😄 I'm a technology enthusiast.
-
-
 
 <!--
 **fabriciocovalesci/fabriciocovalesci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

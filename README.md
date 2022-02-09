@@ -16,7 +16,7 @@
 <a href="https://dev.to/fabcovalesci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="fabcovalesci" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/fabriciocovalesci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fabriciocovalesci" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14102549" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14102549" height="30" width="40" /></a>
-<a href="https://discord.gg/fabcovalesci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="fabcovalesci" height="30" width="40" /></a>
+<a href="https://discord.gg/fabcovalesci#7937" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="fabcovalesci#7937" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

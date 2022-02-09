@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fabricio</h1>
 <h3 align="center">Enthusiastic about technology, constantly learning</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fabriciocovalesci&label=Profile%20views&color=0e75b6&style=flat" alt="fabriciocovalesci" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fabriciocovalesci" alt="fabriciocovalesci" /></a> </p>
-
 - 🔭 I'm currently working with **Node.js and Vue.js**
 
 - 🌱 I’m currently learning **React Native, Django, Python, Node.js, C++, Kubernetes, Docker**

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fabricio</h1>
 <h3 align="center">Enthusiastic about technology, constantly learning</h3>
 
-- 🔭 I'm currently working with **Node.js and Vue.js**
+- 🔭 I'm currently working with **Node.js, Vue.js and MongoDB**
 
 - 🌱 I’m currently learning **React Native, Django, Python, Node.js, C++, Kubernetes, Docker**
 

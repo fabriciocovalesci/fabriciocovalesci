@@ -3,7 +3,7 @@
 
 - 🔭 I'm currently working with **Node.js, Vue.js and MongoDB**
 
-- 🌱 I’m currently learning **React Native, Django, Python, Node.js, C++, Kubernetes, Docker**
+- 🌱 I’m currently learning **React Native, Django, Python, FastAPI, Node.js, C++, Shell script, Kubernetes, Docker, Jenkins**
 
 - 📝 I regularly write articles on [https://dev.to/fabcovalesci](https://dev.to/fabcovalesci)
 
